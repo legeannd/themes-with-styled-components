@@ -1,10 +1,13 @@
 import React from 'react';
+import { useTheme } from '../../hooks/theme';
 
 import { Container, ComponentButton } from './styles';
 
 const Button: React.FC = () => {
+  const { toggleTheme } = useTheme();
+
   const handleToggleTheme = () => {
-    console.log('O botão foi clicado');
+    toggleTheme();
   }
 
   return (

@@ -1,5 +1,5 @@
 # Themes with Styled Components 
-![stacks](https://img.shields.io/badge/ReactJS-v16.13.1-brightgreen) ![stacks](https://img.shields.io/badge/Styled%20Components-v5.2.0-brightgreen) ![stacks](https://img.shields.io/badge/Stack-Typescript-blue) ![GitHub](https://img.shields.io/github/license/legeannd/typeform-homepage-clone)
+![stacks](https://img.shields.io/badge/ReactJS-v16.13.1-brightgreen) ![stacks](https://img.shields.io/badge/Styled%20Components-v5.2.0-brightgreen) ![stacks](https://img.shields.io/badge/Stack-Typescript-blue) ![GitHub](https://img.shields.io/github/license/legeannd/themes-with-styled-components)
 
 <p align="center">
   <img width="600" src="uploads/flux.gif"/>
